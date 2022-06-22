@@ -1,0 +1,154 @@
+'candle':470
+'table':736,532
+'cello':486
+'pickup truck':717
+'dishwasher':534
+'cat':281,282,283,284,285
+'harp':594
+'bathtub':435
+'bucket':463
+'barn':425
+'bear':294,295,296,297
+'mailbox':637
+'necklace':679
+'traffic light':920
+'pig':341
+'shark':2,3,4
+'tent':672
+'saxophone':776
+'firetruck':555
+'sheep':349
+'tractor':866, 867
+'lantern':607
+'bee':309
+'telephone':528
+'monkey':370,371,375,376,379,380,381,382
+'ambulance':407
+'nail':677
+'drill':740
+'fish':1,5,107,123,124,327,393,395,396,397
+'spoon':129
+'snail':113
+'mug':504
+'owl':24
+'bench':703
+'fan':545
+'kangaroo':104
+'microphone':650
+'radio':754
+'strawberry':949
+'baseball':429
+'sleeping bag':797
+'hourglass':604
+'wine bottle':907
+'elephant':385,386
+'hammer':587
+'soccer ball':805
+'cup':968
+'hot dog':934
+'trombone':875
+'canoe':472
+'rabbit':330,332
+'eraser':767
+'basketball':430
+'teapot':849
+'bowtie':457
+'pillow':721
+'vase':883
+'squirrel':335,382
+'panda':387,388
+'wristwatch':531
+'keyboard':508
+'ear':998
+'bottlecap':455
+'whale':147,148
+'bus':654
+'shovel':792
+'hat':515
+'lipstick':629
+'zebra':340
+'tiger':292
+'scorpion':71
+'sea turtle':33,34,35,37
+'microwave':651
+'trumpet':513
+'washing machine':897
+'toaster':859
+'chair':423,559,765
+'broccoli':937
+'computer':527,681
+'castle':483
+'laptop':620
+'hockey puck':746
+'bridge':821,839
+'mushroom':947
+'van':656,675
+'police car':734
+'screwdriver':784
+'frog':30,31,32
+'cell phone':487
+'train':466
+'violin':889
+'lollipop':929
+'pineapple':953
+'t-shirt':610
+'ice cream':928
+'snorkel':801
+'remote control':761
+'stove':827
+'door':799
+'banana':954
+'helmet':518,560
+'ant':310
+'guitar':402,546
+'flamingo':130
+'purse':748
+'penguin':145
+'oven':544,651
+'television':851
+'speedboat':814
+'butterfly':322,323,324,325
+'rifle':413,764
+'pizza':963
+'dog':153,200,199,201,202,203,204,205,206,207,208,209,210,235,238,239,245,248,251,252,254,256,275
+'snake':52,53,54,55,56,57,58,59,60,62,65,63,61,64,66,67,68
+'school bus':779
+'hedgehog':334
+'backpack':414
+'compass':635
+'lighter':626
+'basket':790
+'sock':806
+'broom':462
+'cannon':471
+'car':751,817,829
+'bird':13,14,15,16,17,18,19,20,21,22,23
+'parachute':701
+'camera':732,759
+'binoculars':447
+'clock':409,530,892
+'popsicle':929
+'spider':72,73,74,75,76,77
+'lighthouse':437
+'paintbrush':696
+'aircraft carrier':403
+'dumbbell':543
+'envelope':549
+'syringe':845
+'mouse':673
+'eyeglasses':837
+'church':497
+'teddy-bear':850
+'crab':118,119,120,121,125
+'bed':831
+'submarine':833
+'lion':291
+'camel':354
+'swan':100
+'umbrella':879
+'shoe':770
+'lobster':122,123
+'frying pan':567
+'piano':579,881
+'crocodile':49,50
+'stethoscope':823
